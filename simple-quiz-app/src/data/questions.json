@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "React is mainly used for?",
+    "options": [
+      "Styling",
+      "Mobile Apps",
+      "Building UI",
+      "None"
+    ],
+    "answer": "Building UI"
+  },
+  {
+    "id": 2,
+    "question": "Which hook is used for state?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useMemo",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "id": 3,
+    "question": "Which hook is used to perform side effects in a component?",
+    "options": [
+      "useState",
+      "useReducer",
+      "useEffect",
+      "useCallback"
+    ],
+    "answer": "useEffect"
+  },
+  {
+    "id": 4,
+    "question": "What syntax is used to write HTML-like code inside JavaScript in React?",
+    "options": [
+      "JSX",
+      "XML",
+      "HTML5",
+      "JSHTML"
+    ],
+    "answer": "JSX"
+  },
+  {
+    "id": 5,
+    "question": "How do you pass data from a parent component to a child component?",
+    "options": [
+      "State",
+      "Props",
+      "Hooks",
+      "Redux"
+    ],
+    "answer": "Props"
+  },
+  {
+    "id": 6,
+    "question": "What is the Virtual DOM in React?",
+    "options": [
+      "A direct copy of the HTML document",
+      "A lightweight copy of the real DOM kept in memory",
+      "A browser extension for debugging",
+      "A database storage engine"
+    ],
+    "answer": "A lightweight copy of the real DOM kept in memory"
+  },
+  {
+    "id": 7,
+    "question": "Which prop is required when rendering a list of elements to help React identify items?",
+    "options": [
+      "id",
+      "ref",
+      "key",
+      "index"
+    ],
+    "answer": "key"
+  },
+  {
+    "id": 8,
+    "question": "Which hook allows you to consume context values directly?",
+    "options": [
+      "useContext",
+      "useRef",
+      "useConsumer",
+      "useProvider"
+    ],
+    "answer": "useContext"
+  },
+  {
+    "id": 9,
+    "question": "Which hook can be used to access and manipulate a DOM element directly?",
+    "options": [
+      "useState",
+      "useRef",
+      "useLayout",
+      "useDOM"
+    ],
+    "answer": "useRef"
+  },
+  {
+    "id": 10,
+    "question": "Which hook is used to optimize performance by memoizing complex functions?",
+    "options": [
+      "useMemo",
+      "useCallback",
+      "useEffect",
+      "useState"
+    ],
+    "answer": "useCallback"
+  }
+]
